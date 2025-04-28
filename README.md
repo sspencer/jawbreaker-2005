@@ -30,5 +30,5 @@ August, 2024
 2. on the server-side in Go, using [Datastar](https://data-star.dev/) with [Jawbreaker](https://sspencer.github.com/jawbreaker). 
 
 
-![Jawbreaker Screenshot](docs/jawbreaker-2005.png "Jawbreaker")
+![Jawbreaker Screenshot](docs/jawbreaker.png "Jawbreaker")
 
