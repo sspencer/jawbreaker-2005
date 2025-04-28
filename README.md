@@ -24,11 +24,9 @@ August, 2024
 
 🟣🔵🟢🔴🟡
 
-**NOTE** I have since rewritten Jawbreaker twice:
+**NOTE** I have since reimplemented Jawbreaker twice:
 
-1. using modern JavaScript with [jawbreaker-2024](https://sspencer.github.com/jawbreaker-2024) and
-2. on the server-side in Go, using [Datastar](https://data-star.dev/) with [Jawbreaker](https://sspencer.github.com/jawbreaker). 
+1. using modern JavaScript in the [jawbreaker-2024](https://sspencer.github.com/jawbreaker-2024) repo
+2. on the server-side in Go, using [Datastar](https://data-star.dev/) in the [jawbreaker](https://sspencer.github.com/jawbreaker) repo 
 
-
-![Jawbreaker Screenshot](docs/jawbreaker.png "Jawbreaker")
-
+![Jawbreaker Screenshot](img/jawbreaker.png)
